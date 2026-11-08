@@ -19,6 +19,10 @@ jobs:
     - name: Setup Android SDK
       uses: android-actions/setup-android@v2
 
+    - name: Accept Android SDK Licenses
+      run: |
+        yes | sdkmanager --licenses || true
+
     - name: Build APK
       run: |
         chmod +x gradlew
