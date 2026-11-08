@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMTube</string>
+    <string name="ch_downloads">التنزيلات الجارية</string>
+    <string name="ch_done">التنزيلات المكتملة</string>
+    <string name="ch_playback">التشغيل في الخلفية</string>
+    <string name="dl_done">اكتمل التنزيل</string>
+    <string name="dl_running">جارٍ تنزيل %1$d ملف</string>
+    <string name="player_float">نافذة عائمة</string>
+    <string name="player_background">تشغيل في الخلفية</string>
+    <string name="player_playing">قيد التشغيل</string>
+    <string name="player_stop">إيقاف</string>
+</resources>

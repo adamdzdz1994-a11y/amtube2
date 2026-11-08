@@ -1,0 +1,3 @@
+AMTube is free software, released under the GNU General Public License v3.0 or later (GPL-3.0-or-later),
+because it is built on GPL-3.0 components (youtubedl-android, yt-dlp's Android wrapper, and ffmpeg builds).
+Full text: https://www.gnu.org/licenses/gpl-3.0.txt

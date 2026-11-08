@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMTube</string>
+    <string name="ch_downloads">Downloads in progress</string>
+    <string name="ch_done">Finished downloads</string>
+    <string name="ch_playback">Background playback</string>
+    <string name="dl_done">Download complete</string>
+    <string name="dl_running">Downloading %1$d file(s)</string>
+    <string name="player_float">Floating window</string>
+    <string name="player_background">Play in background</string>
+    <string name="player_playing">Playing</string>
+    <string name="player_stop">Stop</string>
+</resources>
